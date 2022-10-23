@@ -1,0 +1,149 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'montserrat';
+}
+
+h1{
+    font-family: 'sacramento';
+    font-size: 90px;
+    margin: 50px auto 0 auto;
+    color: #66bfbf;
+}
+
+h2{
+    font-size: 40px;
+    color: #1e836c;
+    font-weight: normal;
+    font-family: montserrat;
+}
+
+h3{
+    color: #45b29a;
+}
+
+p{
+    font-family: montserrat;
+    color: #545454;
+}
+
+.top-container {
+    background-color: #e4f9f5;
+    padding: 100px;
+    position: relative;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 400px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 420px;
+    top: 100px;
+}
+
+.middle-container{
+
+
+}
+
+.profile{
+    width: 60%;
+    margin: 100px auto;
+}
+
+.skill-row{
+    width: 40%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.my-img{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+.my-img1{
+width: 30%;
+height: 150px;
+float: left;
+border-radius: 50%;
+margin-right: 20px;
+}
+
+.intro{
+    width: 55%;
+    margin: auto;
+    line-height: 2;
+
+}
+
+hr{
+    width: 20%;
+    border: 2px dashed grey;
+}
+
+.my-img2{
+width: 25%;
+height: 150px;
+float: right;
+border-radius: 50%;
+margin-left: 20px;
+}
+
+.contact-me{
+    margin: 100px auto;
+    width: 60%;
+}
+.contact-me h2{
+    margin-bottom: 50px;
+}
+
+.contact-me h3{
+    margin-bottom: 50px;
+}
+
+.contact-me p{
+    margin-bottom: 50px;
+    line-height: 2;
+    font-weight: 400;
+    font-size: 20px;
+}
+button{
+    border-radius: 8px;
+    padding: 18px 40px;
+    background: linear-gradient(to right,#3ea08a, #11cdd4);
+    border: 1px solid#3ea08a;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 400;
+    color: #607571;
+}
+a:hover{
+    color: #30e3cb;
+}
+
+button:hover{
+    background: linear-gradient(to right,#30e3cb,#2bc4ad);
+}
+
+.bottom-container{
+    background-color: #c5ded7;
+    padding: 3em;
+}
+a.footer-link{
+    padding-bottom: 30px;
+    margin-left: 20px;
+}
+
+.bottom-container p{
+    color: #45b29a;
+}
+
+
